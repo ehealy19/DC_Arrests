@@ -1,5 +1,8 @@
 # DC-Crime
 
-## Authors: Lizzy Healy, Zoo Un Park, Rachna Rawalpally, Trey Roark, Sophia Rutman 
+## Authors: Lizzie Healy, Zoo Un Park, Rachna Rawalpally, Trey Roark, Sophia Rutman 
 
-For the purpose of 5100, we created this project about DC Crime data. 
+
+**PLEASE NOTE THIS PROJECT WAS ORIGINALLY BASED ON A REPOSITORY COMPLETED AS PART OF DSAN5100 AT GEORGETOWN UNIVERSITY. IT HAS BEEN COPIED TO MY PERSONAL GITHUB FOR VIEWING PURPOSES.**
+
+
